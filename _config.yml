@@ -2,7 +2,7 @@ title: PFSINHC
 description: Welcome to the Presidio Field Station Interactive Natural History Collection's online presence. 
 theme: just-the-docs
 
-url: https://benanlam.github.io/pfsinhc
+url: https://benanlam.github.io/PFSINHC
 
 nav_order:
   - index.md
@@ -10,4 +10,4 @@ nav_order:
   - volunteer.md
 
 aux_links:
-  Field Station: https://presidio.gov/explore/attractions/field-station
+  Field Station Website: https://presidio.gov/explore/attractions/field-station
