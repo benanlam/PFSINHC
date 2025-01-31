@@ -5,9 +5,10 @@ theme: just-the-docs
 url: https://benanlam.github.io/pfsinhc
 
 nav_order:
-  - index.md
-  - loans.md
-  - volunteer.md
+  - docs/index.md
+  - guide:
+    - loans.md
+    - volunteer.md
 
 aux_links:
   Field Station: https://presidio.gov/explore/attractions/field-station
