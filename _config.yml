@@ -4,5 +4,7 @@ theme: just-the-docs
 
 url: https://benanlam.github.io/pfsinhc
 
+permalink: pretty
+
 aux_links:
   Field Station: https://presidio.gov/explore/attractions/field-station
