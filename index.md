@@ -3,7 +3,7 @@ title: Home
 layout: home
 ---
 
-This is the website for the PFSINHC. It is currently under construction. Please contact PFSINHC.primary@gmail.com for any inquires regarding loans or volunteer oppritunites. 
+This is the website for the Presidio Field Station Interactive Natural Hisotry Collection (PFSINHC). It is currently under construction. Please contact PFSINHC.primary@gmail.com for any inquires regarding loans or volunteer oppritunites. 
 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [GitHub Pages]: https://docs.github.com/en/pages
