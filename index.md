@@ -2,6 +2,8 @@
 title: Home
 layout: home
 ---
+{: .highlight }
+Like a coral reef, this page is slowly but surely building up! For any inquries please email PFSINHC.primary@gmail.com.
 
 This is the website for the Presidio Field Station Interactive Natural Hisotry Collection (PFSINHC). It is currently under construction. Please contact PFSINHC.primary@gmail.com for any inquires regarding loans or volunteer oppritunites. 
 
