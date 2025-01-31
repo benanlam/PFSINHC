@@ -6,9 +6,8 @@ url: https://benanlam.github.io/pfsinhc
 
 nav_order:
   - docs/index.md
-  - guide:
-    - loans.md
-    - volunteer.md
+  - loans.md
+  - volunteer.md
 
 aux_links:
   Field Station: https://presidio.gov/explore/attractions/field-station
