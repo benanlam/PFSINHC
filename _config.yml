@@ -9,5 +9,13 @@ nav_order:
   - loans.md
   - volunteer.md
 
+callouts:
+  warning:
+    title: Warning
+    color: red
+  important:
+    title: Important
+    color: blue
+
 aux_links:
   Field Station Website: https://presidio.gov/explore/attractions/field-station
