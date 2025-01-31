@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: home
+nav_order: 1
 ---
 
 This is the website for the Presidio Field Station Interactive Natural Hisotry Collection (PFSINHC). It is currently under construction. Please contact PFSINHC.primary@gmail.com for any inquires regarding loans or volunteer oppritunites. 
