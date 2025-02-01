@@ -14,6 +14,8 @@ The Presidio Field Station's free and publicly avalable research and education c
 [Contact us](#contact-us){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Get Involved][aaa]{: .btn .fs-5 .mb-4 .mb-md-0 }
 
+---
+
 The Presidio Field Station Interactive Natural History Collection (PFSINHC) is a free public interactive natural history collection (including cultural-historical objects) kept at the facilities of the Presidio Field Station (PFS). 
 Researchers, educators, students & any other members of the public are welcome to access and examine the collection of over +1000 carefully curated specimens and learn about various aspects of the Presidio and surrounding areas.
 
