@@ -12,7 +12,7 @@ The Presidio Field Station's free and publicly avalable research and education c
 {: .fs-6 .fw-300 }
 
 [Contact us](#contact-us){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[Get Involved](/docs/volunteer.html){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Get Involved](PFSINHC/docs/volunteer.html){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 
 ---
