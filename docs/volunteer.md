@@ -5,7 +5,7 @@ layout: default
 
 Interested in volunteering with the PFSINHC? We accept volunteers of all ages and skillsets. Click the button below to get started!
 
-[Volunteer with us](https://docs.google.com/forms/d/e/1FAIpQLSc4YI7YLDibMNLm3mzalTtzAjybIE8e40ghh_0qms8alHiXDg/viewform?usp=preview){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Volunteer with us](https://docs.google.com/forms/d/e/1FAIpQLSc4YI7YLDibMNLm3mzalTtzAjybIE8e40ghh_0qms8alHiXDg/viewform?usp=preview){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 
 
